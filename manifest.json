@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Twitter auto good",
+  "version": "0.1.1",
+
+  "description": "Twitter auto good.",
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://twitter.com/*"
+      ],
+      "js": ["good.js"]
+    }
+  ],
+
+  "author": "Shirashoji"
+}
