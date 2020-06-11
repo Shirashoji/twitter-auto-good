@@ -3,7 +3,7 @@
   "name": "Twitter auto good",
   "version": "0.1.1",
 
-  "description": "Twitter auto good.\nTwitter上で自動でいいねします。\nいいねだけしかしません。",
+  "description": "Twitter auto good. Twitter上で自動でいいねします。いいねだけしかしません。 利用の際は制限だけには気をつけてください。",
 
   "content_scripts": [
     {
