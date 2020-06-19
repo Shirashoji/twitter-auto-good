@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Twitter auto good",
-  "version": "0.1.1",
+  "version": "2.1.1",
 
   "description": "Twitter auto good. Twitter上で自動でいいねします。いいねだけしかしません。 利用の際は制限だけには気をつけてください。",
 
